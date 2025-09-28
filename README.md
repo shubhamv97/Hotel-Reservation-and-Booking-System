@@ -36,7 +36,7 @@ IDE Used: NetBeans
 
 Clone the repository
 
-git clone https://github.com/your-username/hotel-booking-system.git
+git clone https://github.com/shubhamv97/hotel-booking-system.git
 cd hotel-booking-system
 
 
@@ -74,7 +74,3 @@ Enhanced UI with JavaFX or web-based frontend.
 
 Contributions are welcome! Feel free to fork the repo, open an issue, or submit a pull request.
 
-📜 License
-
-This project is licensed under the MIT License – see the LICENSE
- file for details.
