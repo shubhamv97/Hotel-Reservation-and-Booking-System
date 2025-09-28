@@ -34,12 +34,6 @@ IDE Used: NetBeans
 
 ⚙️ Installation & Setup
 
-Clone the repository
-
-git clone https://github.com/shubhamv97/hotel-booking-system.git
-cd hotel-booking-system
-
-
 Setup Database
 
 Install MySQL and create a database (e.g., hotel_db).
